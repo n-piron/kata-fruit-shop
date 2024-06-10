@@ -1,0 +1,6 @@
+[package]
+name = "kata_fruit_shop"
+version = "0.1.0"
+authors = ["Gregoire DEFOY"]
+
+[dependencies]
