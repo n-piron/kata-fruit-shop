@@ -1,16 +1,5 @@
 package main
 
-// case "Pommes":
-// 	return Fruit{Name: "Pommes", Price: 100}
-// case "Mele":
-// 	return Fruit{Name: "Mele", Price: 100}
-// case "Apples":
-// 	return Fruit{Name: "Apples", Price: 100}
-// case "Bananes":
-// 	return Fruit{Name: "Bananes", Price: 150}
-// case "Cerises":
-// 	return Fruit{Name: "Cerises", Price: 75}
-
 func initFruitShop() *Cart {
 	cart := NewCart()
 	cherry := NewFruit("Cerises", 75)
